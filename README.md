@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/pritam-bhunia-24412428a/">
     <img src="https://img.shields.io/badge/LinkedIn-Pritam%20Bhunia-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="https://pritambhunia04.github.io/PritamBhunia-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -26,6 +29,9 @@ I enjoy turning ideas into working applications and improving my programming fun
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🌱 Continuously learning and building projects
+
+🌐 **Visit my Portfolio:**  
+👉 https://pritambhunia04.github.io/PritamBhunia-Portfolio/
 
 ---
 
@@ -84,7 +90,7 @@ I enjoy turning ideas into working applications and improving my programming fun
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ---
 
@@ -111,12 +117,13 @@ I enjoy turning ideas into working applications and improving my programming fun
 
 `React.js` • `Node.js` • `Express.js` • `JavaScript` • `HTML` • `CSS`
 
-🔗 **Live Project:** [Learnex](https://learnex-2-0.vercel.app/)
+🔗 **Live Project:**  
+[Learnex](https://learnex-2-0.vercel.app/)
 
 ---
 
 <div align="center">
-  
+
 ### 🔊 Amazon Polly TTS
 
 #### Cloud-Based Text-to-Speech Application
@@ -138,7 +145,8 @@ An application integrating **Amazon Web Services (AWS) Polly** for converting te
 
 `AWS Polly` • `JavaScript` • `Web Technologies` • `Cloud APIs`
 
-🔗 **Live Project:** [Amazon Polly TTS Converter](https://ghoshnirnay.github.io/Amzon_polly_text_to_speech/)
+🔗 **Live Project:**  
+[Amazon Polly TTS Converter](https://ghoshnirnay.github.io/Amzon_polly_text_to_speech/)
 
 ---
 
@@ -165,7 +173,8 @@ An application integrating **Amazon Web Services (AWS) Polly** for converting te
 
 `HTML` • `CSS` • `JavaScript` • `AI API`
 
-🔗 **Live Project:** [PrepPilot.AI](https://preppilot-ai-617d.onrender.com)
+🔗 **Live Project:**  
+[PrepPilot.AI](https://preppilot-ai-617d.onrender.com)
 
 ---
 
@@ -188,6 +197,9 @@ An application integrating **Amazon Web Services (AWS) Polly** for converting te
   </a>
   <a href="https://www.linkedin.com/in/Pritam-Bhunia-24412428a/">
     <img src="https://img.shields.io/badge/LinkedIn-Pritam%20Bhunia-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://pritambhunia04.github.io/PritamBhunia-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
