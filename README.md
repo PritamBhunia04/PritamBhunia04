@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pritam Bhunia
+# 👋 Hi, I'm Pritam Bhunia 😊
 
 <h3 align="center">
 💻 CSE Student • Software Developer • Problem Solver
@@ -112,6 +112,33 @@ I enjoy turning ideas into working applications and improving my programming fun
 `React.js` • `Node.js` • `Express.js` • `JavaScript` • `HTML` • `CSS`
 
 🔗 **Live Project:** [Learnex](https://learnex-2-0.vercel.app/)
+
+---
+
+<div align="center">
+  
+### 🔊 Amazon Polly TTS
+
+#### Cloud-Based Text-to-Speech Application
+
+</div>
+
+An application integrating **Amazon Web Services (AWS) Polly** for converting text into natural-sounding speech through cloud-based API integration.
+
+✨ **Highlights**
+
+- ☁️ AWS cloud integration
+- 🔊 Text-to-Speech conversion
+- ⚡ Real-time speech generation
+- 🔗 API-based architecture
+- 🌐 Web-based interaction
+- 🧩 Cloud service integration
+
+🛠️ **Technology Stack**
+
+`AWS Polly` • `JavaScript` • `Web Technologies` • `Cloud APIs`
+
+🔗 **Live Project:** [Amazon Polly TTS Converter](https://ghoshnirnay.github.io/Amzon_polly_text_to_speech/)
 
 ---
 
